@@ -11,25 +11,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Resources
+          url: resources/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: |
+      PhD Researcher in Migration Studies
+    author: Jiancheng Gu
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "November 2023"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -50,44 +44,32 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Jiancheng Gu
+          subtitle: |
+            I am a PhD Researcher at the [Department for Migration and Globalisation](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html), 
+            [Universität für Weiterbildung Krems](https://www.donau-uni.ac.at/en/).
+            My research interests lie in quantitative migration studies, causal inference, and open science.
+            My dissertation concerns the policy outcomes on irregular migration and return;
+            It is part of the Horizon Europe project [Finding Agreement in Return (FAiR)](https://www.youtube.com/watch?v=A264XtpcQaY).
+            
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Jiancheng Gu
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: Research
+              url: research/
+            - name: Resources
+              url: resources/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_Gu.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:jiancheng.gu@donau-uni.ac.at
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/jchgu
 
     assets:
         disableHLJS: true
@@ -96,7 +78,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Jiancheng Gu"
       icon: favicon.ico
       iconHeight: 18
 
