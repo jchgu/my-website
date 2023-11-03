@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://jchgu.rbind.io" 
+title: Jiancheng Gu
 paginate: 20
 theme: PaperMod
 
@@ -46,11 +46,11 @@ params:
           enabled: true
           title: Jiancheng Gu
           subtitle: |
-            I am a PhD Researcher at the [Department for Migration and Globalisation](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html), 
-            [Universität für Weiterbildung Krems](https://www.donau-uni.ac.at/en/).
+            I am a PhD Researcher at the [Universität für Weiterbildung Krems's](https://www.donau-uni.ac.at/en/).
+            [Department for Migration and Globalisation.](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
             My research interests lie in quantitative migration studies, causal inference, and open science.
             My dissertation concerns the policy outcomes on irregular migration and return;
-            It is part of the Horizon Europe project [Finding Agreement in Return (FAiR)](https://www.youtube.com/watch?v=A264XtpcQaY).
+            The research funding comes from the Horizon Europe project [Finding Agreement in Return (FAiR)](https://www.youtube.com/watch?v=A264XtpcQaY).
             
           imageUrl: "picture.jpeg"
           imageWidth: 160
