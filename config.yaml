@@ -46,11 +46,12 @@ params:
           enabled: true
           title: Jiancheng Gu
           subtitle: |
-            I am a PhD Researcher at the [Universität für Weiterbildung Krems's](https://www.donau-uni.ac.at/en/)
-            [Department for Migration and Globalisation.](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
-            My research interests lie in quantitative migration studies, causal inference, and open science.
-            My dissertation concerns the policy outcomes on irregular migration and return;
-            The research funding comes from the Horizon Europe project [Finding Agreement in Return (FAiR)](https://www.youtube.com/watch?v=A264XtpcQaY).
+            Welcome to my website! I am a PhD Researcher at the
+            [Department for Migration and Globalisation,](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization.html)
+            [Universität für Weiterbildung Krems.](https://www.donau-uni.ac.at/en/)
+            My research interests include quantitative migration studies, causal inference, and open science.
+            I work within the Horizon Europe project [Finding Agreement in Return (FAiR),](https://www.youtube.com/watch?v=A264XtpcQaY)
+            studying the policy outcomes on irregular migration and return.
             
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -68,6 +69,8 @@ params:
           url: CV_Gu.pdf
         - name: Email
           url: mailto:jiancheng.gu@donau-uni.ac.at
+        - name: orcid
+          url: https://orcid.org/0009-0002-3033-6472
         - name: GitHub
           url: https://github.com/jchgu
 
